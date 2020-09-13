@@ -1,2 +1,2 @@
 # messengerbot
-This is just a template, no other yeah.
+This is just a template, don't used it.
